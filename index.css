@@ -70,6 +70,14 @@ body {
     user-select: none;
 }
 
+body::selection {
+  background-color: transparent
+}
+
+body::-moz-selection {
+  background-color: transparent
+}
+
 a:link,
 a:visited {
   text-decoration: none;
