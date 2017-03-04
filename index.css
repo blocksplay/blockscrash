@@ -266,6 +266,14 @@ p {
   left: 0;
 }
 
+.sep {
+  margin-top: 0
+}
+
+.container .footer{
+  padding-top: 0
+}
+
 /*.iphone-mask {
   position: absolute;
   z-index: 10;
